@@ -1,5 +1,4 @@
-
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+<p align="center"><img src="https://giphy.com/gifs/coding-programming-codeit-VDB85YZsrqMXx3c7DE/giphy.gif" width="100"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/daniyal-iqbal-895908250/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
