@@ -53,6 +53,8 @@ I am a Data Science Enthusiast <img src="https://media.giphy.com/media/WUlplcMpO
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=daniyaal-14&theme=dark&background=000000)](https://git.io/streak-stats)
 
+<a href="https://github.com/daniyaal-14" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniyaal-14&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniyaal-14&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center"><img src="https://giphy.com/media/scaler-official-cat-cats-coding-k0ijJhqrUP4T2EvmJ1/giphy.gif" width="100"/></p>
